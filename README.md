@@ -117,7 +117,7 @@ information.
 
 Now if you refresh the `index.html` page in your browser you should see a
 perfectly [Goth][goth] solid-black rainbow.
-
+   
 We got the basic outline because in the `main.css` all the `div` elements were
 selected and given a `border` whose color is `#000`, "black." While we could
 set `color: red;`, we will have more colors available if we define colors
